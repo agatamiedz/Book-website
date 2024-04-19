@@ -1,15 +1,15 @@
 # book website 
 
-# 1.About:
+# 1. About:
 This is the very first project of mine in react application. The idea of the website is to share the titles,authors and ratings of the books read.
 The scope was also to understand the strucutre of the react app.
 
-# 2.Architecture:
+# 2. Architecture:
 - javascript
 - html
 - css
 
-# 3.Development:
+# 3. Development:
 To run the project locally follow the steps:
 - install node.js and Node Package Manager
 - create a new react app running npx create-react-app my-app in a terminal of source-code editor (eg. Visual Studio Code)
