@@ -8,6 +8,7 @@ The scope was also to understand the strucutre of the react app.
 - javascript
 - html
 - css
+- react
 
 # 3. Development:
 To run the project locally follow the steps:
